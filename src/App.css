@@ -1,0 +1,32 @@
+.active {
+  color: rgba(40, 42, 41, 0.813);
+  font-weight: 500;
+}
+.navbar a {
+  text-decoration: none;
+  font-size: 18px;
+  margin-left: 1em;
+  color: black;
+  vertical-align: middle;
+}
+.card {
+  cursor: pointer;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.card a {
+  text-decoration: none;
+  color: black;
+}
+.viewContainer {
+  margin-top: 4em;
+}
+
+.box {
+  width: 60%;
+  padding: 2em;
+  margin: 6em auto;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.dropdown-item {
+  cursor: pointer;
+}

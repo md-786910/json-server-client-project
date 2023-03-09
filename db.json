@@ -1,0 +1,69 @@
+{
+  "addBucket": [
+    {
+      "id": "9d70db5f-90cb-4faf-80b2-40ac3041ec82",
+      "bucketType": "Sport"
+    },
+    {
+      "id": "564ffcab-a662-4da8-b617-47f08e4d94ec",
+      "bucketType": "Sports"
+    }
+  ],
+  "addVideo": [
+    {
+      "bucketType": "Sport",
+      "title": "Song",
+      "link": "https://www.w3schools.com/jsref/movie.mp4",
+      "id": "ba1baae3-f8c2-4497-9990-8ec74a91501b"
+    },
+    {
+      "id": "7c158395-e2c3-4951-9e8a-c980725e1d09",
+      "bucketType": "Sport",
+      "title": "Music song",
+      "link": "https://www.w3schools.com/html/horse.ogg"
+    },
+    {
+      "id": "89687218-31d2-4cd8-b1d9-292e28210728",
+      "bucketType": "Sport",
+      "title": "Example1",
+      "link": "https://www.w3schools.com/jsref/movie.mp4"
+    }
+  ],
+  "history": [
+    {
+      "id": "5fc761fa-32ae-49ac-a76c-bca2743db74d",
+      "bucketType": "musix",
+      "title": "song",
+      "link": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "track": "199.155005"
+    },
+    {
+      "id": "a103ed3f-8bdd-4a3d-b2f8-1166a202c64a",
+      "bucketType": "musix",
+      "title": "one",
+      "link": "        const data = await res.json();",
+      "track": ""
+    },
+    {
+      "bucketType": "Sport",
+      "title": "Song",
+      "link": "https://www.w3schools.com/jsref/movie.mp4",
+      "id": "ba1baae3-f8c2-4497-9990-8ec74a91501b",
+      "track": "3.006393"
+    },
+    {
+      "id": "7c158395-e2c3-4951-9e8a-c980725e1d09",
+      "bucketType": "Sport",
+      "title": "Music song",
+      "link": "https://www.w3schools.com/html/horse.ogg",
+      "track": "1.515102"
+    },
+    {
+      "id": "89687218-31d2-4cd8-b1d9-292e28210728",
+      "bucketType": "Sport",
+      "title": "Example1",
+      "link": "https://www.w3schools.com/jsref/movie.mp4",
+      "track": "0.978755"
+    }
+  ]
+}
